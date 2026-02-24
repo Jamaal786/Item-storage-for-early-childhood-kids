@@ -1,7 +1,7 @@
 # Item storage for early childhood kids
 
 ## 📌 Overview
-This was my year 12 project for the course product design. I worked with a main client and stakeholders who gave me a problem and certain requirements that they needed for the product to have. For this project, the children had play clothes, shoes and hand puppets did not have a proper storage space, and the client and stakeholder wanted a custom built product to store all these items.
+This was my year 12 project for the course product design. I worked with a main client and stakeholders who gave me a problem and certain requirements that they needed for the product to have. For this project, the children had play clothes, shoes and hand puppets that did not have a proper storage space. My client and stakeholder wanted a custom built product to store all these items.
 
 ## 🎯 Objectives
 - Must be easily accessible to the children
