@@ -15,7 +15,7 @@ This was my year 12 project for the course product design. I worked with a main 
 
 
 ## 🔍 Methodology
-The first thing I needed to do was find out the requirements that both my client and stakeholders needed for this storage item. The requirements included :
+The first thing I needed to do was gather the requirements from my client and stakeholders. The requirements included :
 - Safety for the children i.e. no sharp corners, no splinters, smooth
 - Easy accessibility for children to take and put back items
 - Hand puppets peg storage to help with fine motor skills
@@ -27,11 +27,9 @@ The first thing I needed to do was find out the requirements that both my client
 
 <br>
 
-Prior to understanding the requirements, I researched on current clothes storage units. I found that there were mainly adult storage units and the only children ones were not for the age requirement I needed. I decided to take inspiraton from existing adult storage units and implement features that would allow the storage item to hold everything required. I drew up multiple design ideas. After discussing with my clients and stakeholders, we reached a final design.
+Prior to finalising the project requirements, I conducted research on existing clothing storage units. Most available designs were intended for adults, and the children’s options identified did not meet the required age specifications. As a result, I drew inspiration from adult storage designs and adapted key features to suit the intended users and functional requirements.Several concept sketches were developed and presented to the client and stakeholders. Following discussion and evaluation, a final design was agreed upon. <br>
 
-<br>
-
-After the brainstorm, I headed to the workshop to start the construction process. I decided to make the whole product out of MDF as it was a material which was easy to clean, work with, and had a less chance of forming splinters if damaged. I used many tools during this construction process. Some of those tools included : <br>
+After completing the design phase, I began the construction process in the workshop. MDF was selected as the primary material due to its smooth surface finish, ease of machining, and reduced risk of splintering compared to solid timber, making it more suitable for a child-friendly environment. Some of those tools used in the construction process were : <br>
 
 - Drill press
 - Belt sander
@@ -41,7 +39,12 @@ After the brainstorm, I headed to the workshop to start the construction process
 - Sandpaper
 - Router
 <br>
-Some of these tolls I had never used before, and it was interesting and fun to learn as I went. I attached all the parts of the storage item using wood glue and screws with counter sinks for a very secure joint. I realised during the costruction process that I could have adjusted some of the design so the build could be easier. Instead of making a separate shoe storage and attaching the other parts ontop of the shoe storage, I could have used less materials and made assembly much easier if I had just made it part of the side panels. This was a mistake on my end as I had not thought ahead of this potential issue. However, it was too late into the construction process to restart or adjust the parts. I had to glue and attach the parts via screws. After that, the storage item just needed proper sanding around the edges before it was completed and sent to the childcare.
+
+Some of the tools used during construction were new to me, which provided an opportunity to develop additional practical skills throughout the build process. All components were assembled using wood glue and countersunk screws to ensure strong and secure joints.<br>
+
+During construction, I identified a potential design improvement. The shoe storage compartment had been fabricated as a separate unit, with additional components attached above it. In hindsight, integrating the shoe storage directly into the side panels would have reduced material usage and simplified assembly. Due to the stage of construction, redesigning the component was not feasible without significant rework. The existing design was therefore completed as planned, with all joints reinforced using glue and screws. <br>
+
+Following assembly, the unit was sanded thoroughly to remove sharp edges and achieve a smooth finish before delivery to the childcare centre.
 
 ## 📊 Results
 - The storage item worked perfectly
@@ -58,7 +61,8 @@ Unfortunately, this project took place a long time ago and I no longer have the 
 ![](images/completed3.jpeg)
 
 ## 📚 What I Learned
-- How to work with clients and stakeholders and how to implement their requirements into a product
-- How to use tools and the way the materials reacted during the building process
-- It can be expensive to fix something the deeper you are in a project
-- It is important to look out for potential issues during designing process and rectify them early on, especially before materials are used.
+- The importance of effectively communicating with clients and stakeholders, and translating their requirements into practical design decisions.
+- Increased proficiency in the use of workshop tools, as well as a better understanding of material behaviour during fabrication.
+- The cost and time required to correct design issues increases significantly as a project progresses.
+- The importance of identifying and resolving potential design flaws early in the planning phase, particularly before material fabrication begins.
+
